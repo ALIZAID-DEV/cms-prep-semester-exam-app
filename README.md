@@ -1,6 +1,6 @@
 # CMS Prep
 
-Offline-first Flutter starter app for semester exam preparation.
+Offline-first Flutter app for organising lectures, notes, past papers and semester exam preparation.
 
 ## Features
 
