@@ -2,6 +2,14 @@
 
 Offline-first Flutter starter app for semester exam preparation.
 
+## Features
+
+- Subject-wise lecture and study material organisation
+- Past papers and handwritten notes workflow
+- Offline-first study experience
+- Semester exam preparation for BSCS subjects
+- Ready for future MCQ practice and progress tracking
+
 ## Included subjects
 
 - ICT — Application and Information Technology
