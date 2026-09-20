@@ -1,0 +1,37 @@
+name: cms_prep
+description: Offline-first semester exam preparation app for CMS students.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  video_player: ^2.9.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/branding/
+    - assets/content/ICT/
+    - assets/fonts/
+    - assets/source_notes/ICT/
+    - assets/content/PF/
+    - assets/content/Functional_English/
+    - assets/content/Financial_Accounting/
+    - assets/content/Review_Required/
+    - assets/content/HISTORY/
+    - assets/videos/FA/
+    - assets/videos/PF/
+    - assets/videos/ICT/
+    - assets/videos/FE/
+    - assets/videos/QURAN/
+    - assets/videos/HISTORY/
