@@ -1,6 +1,7 @@
 # CMS Prep
 
 Offline-first Flutter app for organising lectures, notes, past papers and semester exam preparation.
+  https://github.com/ALIZAID-DEV/ALIZAID-DEV
   [View project on GitHub](https://github.com/ALIZAID-DEV/cms-prep-semester-exam-app)
 
 ## Features
